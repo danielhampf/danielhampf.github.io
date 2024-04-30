@@ -19,10 +19,6 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs1">
-    <color-profile
-       name="Agfa-:-Swop-Standard"
-       xlink:href="../../../../Windows/system32/spool/drivers/color/RSWOP.icm"
-       id="color-profile1" />
   </defs>
   <g
      inkscape:label="Ebene 1"
